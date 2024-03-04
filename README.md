@@ -8,7 +8,7 @@
 
 
 
-## Dependency (Tested on an M2 Mac, windows 11) 
+## Dependency (Tested on an M2 Mac) 
 
 
 ```pip install streamlit yt-dlp```
