@@ -4,7 +4,7 @@
 
 ### YouTube subtitle extraction - web UI
 
-![Image](URL)
+![Image](https://github.com/leeseomin/SUBYOU/blob/main/pic/1.png)
 
 
 
