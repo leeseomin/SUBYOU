@@ -22,7 +22,7 @@
 
 ## run code 앱실행  
 
-```streamlit run subyou_06.py```
+```streamlit run subyou_07.py```
 
 
  <br/>
