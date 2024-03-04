@@ -45,8 +45,3 @@ Streamlit : https://github.com/streamlit/streamlit
 
 
 
- <br/>
- 
- <br/>
-
-## License and Copyright
