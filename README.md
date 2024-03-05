@@ -4,7 +4,7 @@
 
 ### YouTube subtitle Downloader  - web UI
 
-![Image](https://github.com/leeseomin/SUBYOU/blob/main/pic/2.png)
+<img src="https://github.com/leeseomin/SUBYOU/blob/main/pic/2.png" width="1500">
 
 
 
