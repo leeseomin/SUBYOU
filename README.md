@@ -4,7 +4,7 @@
 
 ### YouTube subtitle Downloader  - web UI
 
-![Image](https://github.com/leeseomin/SUBYOU/blob/main/pic/1.png)
+![Image](https://github.com/leeseomin/SUBYOU/blob/main/pic/2.png)
 
 
 
@@ -22,7 +22,7 @@
 
 ## run code 앱실행  
 
-```streamlit run subyou_07.py```
+```streamlit run subyou_071.py```
 
 
  <br/>
