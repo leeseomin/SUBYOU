@@ -4,7 +4,7 @@
 
 ### YouTube subtitle Downloader  - web UI : gradio based
 
-<img src="https://github.com/leeseomin/SUBYOU/blob/main/pic/3.png" width="100%">
+<img src="https://github.com/leeseomin/SUBYOU/blob/main/pic/5.png" width="100%">
 
 
 
