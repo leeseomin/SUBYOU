@@ -2,7 +2,7 @@
 
 
 
-### YouTube subtitle Downloader  - web UI : gradio based
+### "YouTube Subtitle Extractor: A Gradio Web UI"
 
 <img src="https://github.com/leeseomin/SUBYOU/blob/main/pic/5.png" width="100%">
 
